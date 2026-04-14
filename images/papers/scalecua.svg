@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="40" x2="760" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F4C81"/>
+      <stop offset="1" stop-color="#34A0A4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="28" fill="#F6F8FB"/>
+  <rect x="24" y="24" width="752" height="452" rx="28" fill="url(#bg)"/>
+  <rect x="54" y="56" width="146" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="78" y="81" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">ARXIV 2025</text>
+  <text x="56" y="176" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">ScaleCUA</text>
+  <text x="56" y="220" fill="#D9F3F2" font-family="Arial, Helvetica, sans-serif" font-size="28">Open-source computer use agents</text>
+  <text x="56" y="255" fill="#D9F3F2" font-family="Arial, Helvetica, sans-serif" font-size="28">with cross-platform data</text>
+  <rect x="56" y="330" width="208" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="276" y="330" width="170" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="458" y="330" width="170" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="84" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Computer Use</text>
+  <text x="320" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Cross-platform</text>
+  <text x="520" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Open-source</text>
+  <rect x="534" y="96" width="186" height="120" rx="24" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="562" y="124" width="54" height="64" rx="12" fill="#FFFFFF" fill-opacity="0.25"/>
+  <rect x="628" y="124" width="54" height="64" rx="12" fill="#FFFFFF" fill-opacity="0.25"/>
+  <rect x="492" y="240" width="228" height="154" rx="28" fill="#FFFFFF" fill-opacity="0.12"/>
+  <path d="M528 338H684" stroke="#D9F3F2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M528 302H684" stroke="#D9F3F2" stroke-width="10" stroke-linecap="round" stroke-opacity="0.75"/>
+  <path d="M528 266H640" stroke="#D9F3F2" stroke-width="10" stroke-linecap="round" stroke-opacity="0.55"/>
+</svg>

@@ -54,17 +54,20 @@
         justify-content: center;
         display: flex;
         width: 100%;
-        order: 2;
+        order: 1;
         img {
+            width: 100%;
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
+            border-radius: 14px;
+            background: #fff;
         }
     }
     
     .paper-box-text{
         max-width: 100%;
-        order: 1;
+        order: 2;
     }
     
     @include breakpoint($medium) {
@@ -85,6 +88,187 @@
     }
 
 
+}
+
+.paper-title {
+    margin: 0 0 0.4em 0;
+    font-size: 1.15em;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.paper-title a {
+    text-decoration: none;
+}
+
+.paper-title a:hover {
+    text-decoration: underline;
+}
+
+.paper-authors,
+.paper-meta {
+    margin: 0 0 0.45em 0;
+}
+
+.paper-authors strong {
+    font-weight: 700;
+}
+
+.paper-meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.7em 1em;
+    margin: 0.1em 0 0 0;
+}
+
+.paper-meta {
+    color: $gray;
+    margin: 0;
+}
+
+.paper-meta-highlight {
+    font-style: normal;
+    font-weight: 800;
+    color: #44505f;
+}
+
+.paper-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+    margin: 0 0 0.85em 0;
+}
+
+.paper-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    padding: 0.42em 0.95em;
+    border-radius: 999px;
+    border: 1px solid transparent;
+    font-size: 0.92em;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.08);
+}
+
+.paper-link:hover {
+    text-decoration: none;
+}
+
+.paper-link::before {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    line-height: 1;
+}
+
+.paper-link-github {
+    background: #24292f;
+    border-color: #24292f;
+    color: #ffffff;
+}
+
+.paper-link-github::before {
+    content: "\f09b";
+    font-family: "Font Awesome 5 Brands";
+    font-weight: 400;
+}
+
+.paper-link-github:hover {
+    background: #1b1f23;
+    border-color: #1b1f23;
+    color: #ffffff;
+}
+
+.paper-link-star-count {
+    margin-left: 0.1em;
+    padding-left: 0.6em;
+    border-left: 1px solid rgba(255, 255, 255, 0.24);
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 0.95em;
+    letter-spacing: 0.01em;
+}
+
+.paper-link-huggingface {
+    background: #ffec99;
+    border-color: #f2cf66;
+    color: #6b4f00;
+}
+
+.paper-link-huggingface::before {
+    content: "🤗";
+}
+
+.paper-link-huggingface:hover {
+    background: #ffe27a;
+    border-color: #e6bd45;
+    color: #5b4300;
+}
+
+.paper-box-text p:last-child {
+    margin-bottom: 0;
+}
+
+.publication-collapse {
+    margin: 1.5em 0 0 0;
+}
+
+.publication-collapse summary {
+    cursor: pointer;
+    font-size: 1.18em;
+    font-weight: 800;
+    line-height: 1.4;
+    margin-bottom: 0.2em;
+}
+
+.publication-collapse-note {
+    margin: 0.65em 0 1em 0;
+    color: $gray;
+    font-size: 0.95em;
+}
+
+.publication-list-compact {
+    margin: 0 0 0 1.35em;
+}
+
+.publication-list-item {
+    margin-bottom: 0.95em;
+    padding-left: 0.1em;
+}
+
+.publication-list-item:last-child {
+    margin-bottom: 0;
+}
+
+.publication-list-title {
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.publication-list-title a {
+    text-decoration: none;
+}
+
+.publication-list-title a:hover {
+    text-decoration: underline;
+}
+
+.publication-list-authors,
+.publication-list-venue {
+    margin-top: 0.16em;
+    line-height: 1.5;
+}
+
+.publication-list-authors strong {
+    font-weight: 700;
+}
+
+.publication-list-venue {
+    color: $gray;
 }
 
 $scroll_offset : 2em;

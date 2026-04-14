@@ -15,44 +15,221 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I began my Ph.D. in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST) in September 2023, advised by [Prof. Qifeng Chen](https://cqf.io/). Since then, I have worked closely with Shanghai AI Laboratory on multimodal foundation models and agentic systems, with recent efforts centered on open-source computer use agents, multimodal large language models, AI-generated content, and video understanding. My recent research includes projects such as ScaleCUA, InternVL, VisionLLM v2, ControlLLM, AudioX, and InternGPT, and I am broadly interested in building practical multimodal systems that can perceive, reason, and act in complex real-world settings.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+<span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.04*, One paper accepted to ACL 2026.
+- *2026.03*, One paper accepted to SIGGRAPH 2026.
+- *2026.02*, Two papers accepted to CVPR 2026.
+- *2026.01*, Three papers accepted to ICLR 2026, including one Oral and two Posters.
 
-# 📝 Publications 
+<span class='anchor' id='experience'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 💼 Experience
+- *2023.04 - 2025.10* | **Research Intern**, Shanghai AI Laboratory, Shanghai, China  
+  Worked with Wenhai Wang and Jifeng Dai on large language models and multimodal learning.
+- *2022.04 - 2023.04* | **Part-time Researcher**, Shanghai AI Laboratory, Shanghai, China  
+  Led interns on video understanding, multimodal learning, and pose pretraining.
+- *2020.07 - 2023.04* | **Algorithm Engineer**, SenseTime, Shanghai, China  
+  Led a project on detecting highlight moments in videos and worked on video classification, highlight detection, and boundary detection.
+- *2019.09 - 2020.07* | **Research Intern**, SenseTime, Beijing, China  
+  Worked on action recognition.
+- *2019.05 - 2019.09* | **Research Intern**, Tencent Youtu Lab, Shanghai, China  
+  Worked on action recognition.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<span class='anchor' id='selected-publications'></span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 📚 Selected Publications
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/scalecua.svg" alt="ScaleCUA publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/OpenGVLab/ScaleCUA" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/collections/OpenGVLab/scalecua" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2509.15221">ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform Data</a></p>
+    <p class="paper-authors"><strong>Zhaoyang Liu</strong>, JingJing Xie, Zichen Ding, Zehao Li, Bowen Yang, Zhenyu Wu, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>ICLR 2026 <span class="paper-meta-highlight">Oral</span></em></p>
+    </div>
+  </div>
 </div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/internvl35.svg" alt="InternVL3.5 publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/OpenGVLab/InternVL" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/collections/OpenGVLab/internvl35" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2508.18265">InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency</a></p>
+    <p class="paper-authors">Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, <strong>Zhaoyang Liu</strong>, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>arXiv preprint, 2025</em></p>
+    </div>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/audiox.svg" alt="AudioX publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/ZeyueT/AudioX" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/HKUSTAudio/AudioX" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2503.10522">AudioX: A Unified Framework for Anything-to-Audio Generation</a></p>
+    <p class="paper-authors">Zeyue Tian, <strong>Zhaoyang Liu</strong>, Yizhu Jin, Ruibin Yuan, Liumeng Xue, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>Accepted to ICLR, 2026</em></p>
+    </div>
+  </div>
+</div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/visionllmv2.svg" alt="VisionLLM v2 publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/OpenGVLab/VisionLLM" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/OpenGVLab/VisionLLMv2" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2406.08394">VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks</a></p>
+    <p class="paper-authors">Jiannan Wu, Muyan Zhong, Sen Xing, Zeqiang Lai, <strong>Zhaoyang Liu</strong>, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>NeurIPS, 2024</em></p>
+    </div>
+  </div>
+</div>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/controlllm.svg" alt="ControlLLM publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/OpenGVLab/ControlLLM" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/spaces/OpenGVLab/ControlLLM" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2310.17796">ControlLLM: Augment Language Models with Tools by Searching on Graphs</a></p>
+    <p class="paper-authors"><strong>Zhaoyang Liu</strong>, Zeqiang Lai, Zhangwei Gao, Erfei Cui, Ziheng Li, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>ECCV, 2024</em></p>
+    </div>
+  </div>
+</div>
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<div class="paper-box">
+  <div class="paper-box-image">
+    <img src="/images/papers/interngpt.svg" alt="InternGPT publication thumbnail">
+  </div>
+  <div class="paper-box-text">
+    <p class="paper-links">
+      <a class="paper-link paper-link-github" href="https://github.com/OpenGVLab/InternGPT" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a class="paper-link paper-link-huggingface" href="https://huggingface.co/spaces/OpenGVLab/InternGPT" target="_blank" rel="noopener noreferrer">Hugging Face</a>
+    </p>
+    <p class="paper-title"><a href="https://arxiv.org/abs/2305.05662">InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language</a></p>
+    <p class="paper-authors"><strong>Zhaoyang Liu</strong>, Yinan He, Wenhai Wang, Weiyun Wang, Yi Wang, et al.</p>
+    <div class="paper-meta-row">
+      <p class="paper-meta"><em>arXiv preprint, 2023</em></p>
+    </div>
+  </div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+{% if site.data.google_scholar_publications and site.data.google_scholar_publications.publications %}
+{% assign excluded_publication_titles = "others. 2024. Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling||1 Details of optimizing network P||Supplementary Material for Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection" | split: "||" %}
+{% assign visible_publication_count = 0 %}
+{% for paper in site.data.google_scholar_publications.publications %}
+{% unless excluded_publication_titles contains paper.title %}
+{% assign visible_publication_count = visible_publication_count | plus: 1 %}
+{% endunless %}
+{% endfor %}
+<details class="publication-collapse">
+  <summary>Show All Publications from Google Scholar</summary>
+  <p class="publication-collapse-note">
+    Synced from <a href="{{ site.data.google_scholar_publications.source_url }}" target="_blank" rel="noopener noreferrer">Google Scholar</a> on {{ site.data.google_scholar_publications.updated_at }}.
+  </p>
+  <ol class="publication-list-compact">
+    {% for paper in site.data.google_scholar_publications.publications %}
+    {% unless excluded_publication_titles contains paper.title %}
+    {% assign authors_html = paper.authors | replace: 'Zhaoyang Liu', '<strong>Zhaoyang Liu</strong>' %}
+    {% unless authors_html contains '<strong>Zhaoyang Liu</strong>' %}
+    {% assign authors_html = authors_html | replace_first: 'Z Liu', '<strong>Z Liu</strong>' %}
+    {% endunless %}
+    <li class="publication-list-item">
+      <div class="publication-list-title">
+        {% if paper.url != '' %}
+        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+        {% else %}
+        {{ paper.title }}
+        {% endif %}
+      </div>
+      {% if paper.authors != '' %}
+      <div class="publication-list-authors">{{ authors_html }}</div>
+      {% endif %}
+      {% if paper.venue != '' or paper.year != '' %}
+      <div class="publication-list-venue">
+        {% if paper.venue != '' %}
+        {{ paper.venue }}
+        {% else %}
+        {{ paper.year }}
+        {% endif %}
+      </div>
+      {% endif %}
+    </li>
+    {% endunless %}
+    {% endfor %}
+  </ol>
+</details>
+{% else %}
+For a fuller list of publications, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=btgwZosAAAAJ).
+{% endif %}
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🏆 Honors and Awards
+- *2023* RedBird PhD Award, The Hong Kong University of Science and Technology.
+- *2020* Excellent Student Award, Nanjing University.
+- *2020* Outstanding Graduate Award, Nanjing University.
+- *2018* First Place, China Postgraduate Innovation and Practice Competition, Action Recognition Track.
+- *2018* Huawei Scholarship, Nanjing University.
+- *2015* Second Prize, Oracle Cup, East China Division.
+- *2015* First Prize, Jingsheng Cup Computer Programming Competition, Anhui Province.
+
+<span class='anchor' id='academic-services'></span>
+
+# 🤝 Academic Services
+### Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- International Journal of Computer Vision (IJCV)
+- IEEE Transactions on Image Processing (TIP)
+- Pattern Recognition (PR)
+
+### Conference Reviewer
+- CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML
+
+<span class='anchor' id='teaching'></span>
+
+# 🎓 Teaching
+- *2018 Spring* Teaching Assistant, Experiments for Programming Design, Nanjing University.
+- *2024 Spring* Teaching Assistant, Fundamentals of Artificial Intelligence, HKUST.
+- *2024 Autumn* Teaching Assistant, Design and Analysis of Algorithms, HKUST.
+- *2025 Autumn* Teaching Assistant, Exploring Artificial Intelligence, HKUST.
+
+{% comment %}
+<span class='anchor' id='cv'></span>
+
+# CV
+You can download my latest CV here: [Zhaoyang Liu CV (PDF)](/files/Zhaoyang_Liu_CV.pdf).
+{% endcomment %}

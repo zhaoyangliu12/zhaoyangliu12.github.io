@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="40" x2="748" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B6E4F"/>
+      <stop offset="1" stop-color="#2A9D8F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="28" fill="#F6F8FB"/>
+  <rect x="24" y="24" width="752" height="452" rx="28" fill="url(#bg)"/>
+  <rect x="54" y="56" width="156" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="72" y="81" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">NEURIPS 2024</text>
+  <text x="56" y="168" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700">VisionLLM v2</text>
+  <text x="56" y="212" fill="#DDF6F0" font-family="Arial, Helvetica, sans-serif" font-size="28">End-to-end generalist multimodal</text>
+  <text x="56" y="247" fill="#DDF6F0" font-family="Arial, Helvetica, sans-serif" font-size="28">large language model for many tasks</text>
+  <rect x="56" y="330" width="118" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="186" y="330" width="142" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect x="340" y="330" width="132" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.14"/>
+  <text x="90" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Vision</text>
+  <text x="220" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Language</text>
+  <text x="372" y="358" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Generalist</text>
+  <rect x="520" y="102" width="208" height="286" rx="30" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="548" y="132" width="66" height="66" rx="16" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="628" y="132" width="66" height="66" rx="16" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="548" y="212" width="66" height="66" rx="16" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="628" y="212" width="66" height="66" rx="16" fill="#FFFFFF" fill-opacity="0.2"/>
+  <rect x="548" y="292" width="146" height="60" rx="18" fill="#FFFFFF" fill-opacity="0.2"/>
+</svg>

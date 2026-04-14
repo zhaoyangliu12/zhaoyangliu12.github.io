@@ -1,0 +1,259 @@
+{
+  "updated_at": "2026-04-15",
+  "source_url": "https://scholar.google.com/citations?hl=en&user=btgwZosAAAAJ&view_op=list_works&sortby=pubdate&cstart=0&pagesize=100",
+  "count": 36,
+  "publications": [
+    {
+      "title": "Os-symphony: A holistic framework for robust and generalist computer-using agent",
+      "authors": "B Yang, K Jin, Z Wu, Z Liu, Q Sun, Z Li, JJ Xie, Z Liu, F Xu, K Cheng, Q Li, ...",
+      "venue": "arXiv preprint arXiv:2601.07779 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:-f6ydRqryjwC"
+    },
+    {
+      "title": "OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models",
+      "authors": "Z Wu, J Xie, Z Li, B Yang, Q Sun, Z Liu, Z Liu, Y Qiao, X Yue, Z Wang, ...",
+      "venue": "arXiv preprint arXiv:2512.16295 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:qUcmZB5y_30C"
+    },
+    {
+      "title": "Scalecua: Scaling open-source computer use agents with cross-platform data",
+      "authors": "Z Liu, JJ Xie, Z Ding, Z Li, B Yang, Z Wu, X Wang, Q Sun, S Liu, W Wang, ...",
+      "venue": "arXiv preprint arXiv:2509.15221 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:ZeXyd9-uunAC"
+    },
+    {
+      "title": "Internvl3. 5: Advancing open-source multimodal models in versatility, reasoning, and efficiency",
+      "authors": "W Wang, Z Gao, L Gu, H Pu, L Cui, X Wei, Z Liu, L Jing, S Ye, J Shao, ...",
+      "venue": "arXiv preprint arXiv:2508.18265 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:L8Ckcad2t8MC"
+    },
+    {
+      "title": "Mmbench-gui: Hierarchical multi-platform evaluation framework for gui agents",
+      "authors": "X Wang, Z Wu, JJ Xie, Z Ding, B Yang, Z Li, Z Liu, Q Li, X Dong, Z Chen, ...",
+      "venue": "arXiv preprint arXiv:2507.19478 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:dhFuZR0502QC"
+    },
+    {
+      "title": "Zerogui: Automating online gui learning at zero human cost",
+      "authors": "C Yang, S Su, S Liu, X Dong, Y Yu, W Su, X Wang, Z Liu, J Zhu, H Li, ...",
+      "venue": "arXiv preprint arXiv:2505.23762 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+      "title": "Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows",
+      "authors": "Q Sun, Z Liu, C Ma, Z Ding, F Xu, Z Yin, H Zhao, Z Wu, K Cheng, Z Liu, ...",
+      "venue": "arXiv preprint arXiv:2505.19897 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:Wp0gIr-vW9MC"
+    },
+    {
+      "title": "Internvl3: Exploring advanced training and test-time recipes for open-source multimodal models",
+      "authors": "J Zhu, W Wang, Z Chen, Z Liu, S Ye, L Gu, H Tian, Y Duan, W Su, J Shao, ...",
+      "venue": "arXiv preprint arXiv:2504.10479 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:4DMP91E08xMC"
+    },
+    {
+      "title": "Audiox: Diffusion transformer for anything-to-audio generation",
+      "authors": "Z Tian, Y Jin, Z Liu, R Yuan, X Tan, Q Chen, W Xue, Y Guo",
+      "venue": "arXiv preprint arXiv:2503.10522 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:qxL8FJ1GzNcC"
+    },
+    {
+      "title": "Weijie Su, Gen Luo, Xiangyu Yue, Biqing Qi, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, and Wenhai Wang. Scalecua: Scaling open-source computer use agents with cross-platform data",
+      "authors": "Z Liu, J Xie, Z Ding, Z Li, B Yang, Z Wu",
+      "venue": "arXiv preprint arXiv:2509.15221 2 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:hC7cP41nSMkC"
+    },
+    {
+      "title": "Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling, 2025",
+      "authors": "Z Chen, W Wang, Y Cao, Y Liu, Z Gao, E Cui, J Zhu, S Ye, H Tian, Z Liu, ...",
+      "venue": "URL https://arxiv. org/abs/2412.05271 6 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:IWHjjKOFINEC"
+    },
+    {
+      "title": "Vidmuse: A simple video-to-music generation framework with long-short-term modeling",
+      "authors": "Z Tian*, Z Liu*, R Yuan, J Pan, Q Liu, X Tan, Q Chen, W Xue, Y Guo",
+      "venue": "Proceedings of the Computer Vision and Pattern Recognition Conference, 18782 … , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+      "title": "Modelgrow: Continual text-to-video pre-training with model expansion and language understanding enhancement",
+      "authors": "Z Rao, L Ji, Y Xing, R Liu, Z Liu, J Xie, Z Peng, Y He, Q Chen",
+      "venue": "arXiv preprint arXiv:2412.18966 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:M3ejUd6NZC8C"
+    },
+    {
+      "title": "Visionllm v2: An end-to-end generalist multimodal large language model for hundreds of vision-language tasks",
+      "authors": "J Wu, M Zhong, S Xing, Z Lai, Z Liu, Z Chen, W Wang, X Zhu, L Lu, T Lu, ...",
+      "venue": "Advances in Neural Information Processing Systems 37, 69925-69975 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:Zph67rFs4hoC"
+    },
+    {
+      "title": "Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling",
+      "authors": "Z Chen, W Wang, Y Cao, Y Liu, Z Gao, E Cui, J Zhu, S Ye, H Tian, Z Liu, ...",
+      "venue": "arXiv preprint arXiv:2412.05271 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:4TOpqqG69KYC"
+    },
+    {
+      "title": "Controlllm: Augment language models with tools by searching on graphs",
+      "authors": "Z Liu, Z Lai, Z Gao, E Cui, Z Li, X Zhu, L Lu, Q Chen, Y Qiao, J Dai, ...",
+      "venue": "European Conference on Computer Vision, 89-105 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "title": "Mmtrail: A multimodal trailer video dataset with language and music descriptions",
+      "authors": "X Chi, Y Wang, A Cheng, P Fang, Z Tian, Y He, Z Liu, X Qi, J Pan, ...",
+      "venue": "arXiv preprint arXiv:2407.20962 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:_kc_bZDykSQC"
+    },
+    {
+      "title": "Llms meet multimodal generation and editing: A survey",
+      "authors": "Y He, Z Liu, J Chen, Z Tian, H Liu, X Chi, R Liu, R Yuan, Y Xing, W Wang, ...",
+      "venue": "arXiv preprint arXiv:2405.19334 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+      "title": "Interngpt: Solving vision-centric tasks by interacting with chatgpt beyond language",
+      "authors": "Z Liu, Y He, W Wang, W Wang, Y Wang, S Chen, Q Zhang, Z Lai, Y Yang, ...",
+      "venue": "arXiv preprint arXiv:2305.05662 , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "title": "Motionbert: A unified perspective on learning human motion representations",
+      "authors": "W Zhu, X Ma, Z Liu, L Liu, W Wu, Y Wang",
+      "venue": "Proceedings of the IEEE/CVF international conference on computer vision … , 2023",
+      "year": "2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:UebtZRa9Y70C"
+    },
+    {
+      "title": "VLG: General Video Recognition with Web Textual Knowledge",
+      "authors": "J Lin, Z Liu, W Wang, W Wu, L Wang",
+      "venue": "International Journal of Computer Vision (IJCV) 2024 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "title": "Joint-modal label denoising for weakly-supervised audio-visual video parsing",
+      "authors": "H Cheng, Z Liu, H Zhou, C Qian, W Wu, L Wang",
+      "venue": "European Conference on Computer Vision, 431-448 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "title": "Submission to generic event boundary detection challenge@ cvpr 2022: Local context modeling and global boundary decoding approach",
+      "authors": "J Tang, Z Liu, J Tan, C Qian, W Wu, L Wang",
+      "venue": "arXiv preprint arXiv:2206.15268 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "title": "Progressive attention on multi-level dense difference maps for generic event boundary detection",
+      "authors": "J Tang, Z Liu, C Qian, W Wu, L Wang",
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern … , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "title": "DeeperForensics Challenge 2020 on real-world face forgery detection: Methods and results",
+      "authors": "L Jiang, Z Guo, W Wu, Z Liu, Z Liu, CC Loy, S Yang, Y Xiong, W Xia, ...",
+      "venue": "arXiv preprint arXiv:2102.09471 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "title": "Tam: Temporal adaptive module for video recognition",
+      "authors": "Z Liu, L Wang, W Wu, C Qian, T Lu",
+      "venue": "Proceedings of the IEEE/CVF international conference on computer vision … , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "title": "Dynamic sampling networks for efficient action recognition in videos",
+      "authors": "YD Zheng*, Z Liu*, T Lu, L Wang (* denotes equal contribution)",
+      "venue": "IEEE Transactions on Image Processing 29, 7970-7983 , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "Teinet: Towards an efficient architecture for video recognition",
+      "authors": "Z Liu, D Luo, Y Wang, L Wang, Y Tai, C Wang, J Li, F Huang, T Lu",
+      "venue": "Proceedings of the AAAI conference on artificial intelligence 34 (07), 11669 … , 2020",
+      "year": "2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Context and temporal aware attention model for flood prediction",
+      "authors": "Z Liu, Y Wu, Y Ding, J Feng, T Lu",
+      "venue": "Pacific Rim Conference on Multimedia, 545-555 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "title": "Context-aware attention LSTM network for flood prediction",
+      "authors": "Z Liu, W Xu, J Feng, S Palaiahnakote, T Lu",
+      "venue": "2018 24th international conference on pattern recognition (ICPR), 1301-1306 , 2018",
+      "year": "2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "others. 2024. Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling",
+      "authors": "Z Chen, W Wang, Y Cao, Y Liu, Z Gao, E Cui, J Zhu, S Ye, H Tian, Z Liu, ...",
+      "venue": "arXiv preprint arXiv:2412.05271 4 (5) , 1",
+      "year": "1",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+      "title": "ViML: A Video, Music, Language Unified Dataset for Understanding and Generation",
+      "authors": "X Chi, A Cheng, Y Wang, P Fang, Z Tian, Y He, X Qi, Z Liu, R Zhang, ...",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+      "title": "Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation",
+      "authors": "H Cheng, Z Liu, W Wu, L Wang",
+      "venue": "International Conference on Learning Representations 2023 (ICLR) , 0",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "title": "A Unified Pretraining Framework for Human Motion Analysis",
+      "authors": "W Zhu, X Ma, Z Liu, L Liu, W Wu, Y Wang",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:ufrVoPGSRksC"
+    },
+    {
+      "title": "1 Details of optimizing network P",
+      "authors": "AVV Parsing, H Cheng, Z Liu, H Zhou, C Qian, W Wu, L Wang",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "title": "Supplementary Material for Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection",
+      "authors": "J Tang, Z Liu, C Qian, W Wu, L Wang",
+      "venue": "",
+      "year": "",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=btgwZosAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=btgwZosAAAAJ:eQOLeE2rZwMC"
+    }
+  ]
+}
