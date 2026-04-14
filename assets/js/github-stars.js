@@ -9,6 +9,22 @@
     return String(count);
   }
 
+  function setStarCount(link, text, ariaLabel) {
+    var count = link.querySelector(".paper-link-star-count");
+    if (!count) {
+      count = document.createElement("span");
+      count.className = "paper-link-star-count";
+      link.appendChild(count);
+    }
+
+    count.textContent = "★ " + text;
+    link.dataset.starsLoaded = "true";
+
+    if (ariaLabel) {
+      link.setAttribute("aria-label", ariaLabel);
+    }
+  }
+
   function extractRepoPath(url) {
     try {
       var parsed = new URL(url);
@@ -51,19 +67,37 @@
         })
         .then(function (data) {
           if (typeof data.stargazers_count !== "number") {
-            return;
+            throw new Error("Missing stargazers_count");
           }
 
-          var count = document.createElement("span");
-          count.className = "paper-link-star-count";
-          count.textContent = "★ " + formatStarCount(data.stargazers_count);
-
-          link.appendChild(count);
-          link.dataset.starsLoaded = "true";
-          link.setAttribute("aria-label", "GitHub, " + data.stargazers_count + " stars");
+          setStarCount(
+            link,
+            formatStarCount(data.stargazers_count),
+            "GitHub, " + data.stargazers_count + " stars"
+          );
         })
         .catch(function () {
-          // Keep the button usable even if the GitHub API is unavailable.
+          return fetch("https://img.shields.io/github/stars/" + repoPath + ".json")
+            .then(function (response) {
+              if (!response.ok) {
+                throw new Error("Shields fallback failed");
+              }
+              return response.json();
+            })
+            .then(function (data) {
+              if (typeof data.message !== "string" || !data.message) {
+                return;
+              }
+
+              setStarCount(
+                link,
+                data.message,
+                "GitHub stars: " + data.message
+              );
+            })
+            .catch(function () {
+              // Keep the button usable even if both APIs are unavailable.
+            });
         });
     });
   }

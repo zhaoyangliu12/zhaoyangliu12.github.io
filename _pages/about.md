@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about'></span>
 
-I began my Ph.D. in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST) in September 2023, advised by [Prof. Qifeng Chen](https://cqf.io/). Since then, I have worked closely with Shanghai AI Laboratory on multimodal foundation models and agentic systems, with recent efforts centered on open-source computer use agents, multimodal large language models, AI-generated content, and video understanding. My recent research includes projects such as ScaleCUA, InternVL, VisionLLM v2, ControlLLM, AudioX, and InternGPT, and I am broadly interested in building practical multimodal systems that can perceive, reason, and act in complex real-world settings.
+I began my Ph.D. in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST) in September 2023, advised by [Prof. Qifeng Chen](https://cqf.io/). Since then, I have worked closely with Shanghai AI Laboratory on multimodal foundation models and agentic systems, with recent efforts centered on open-source computer use agents, multimodal large language models, AI-generated content, and video understanding. My recent research includes projects such as ScaleCUA, InternVL, VisionLLM, ControlLLM, AudioX, and InternGPT, and I am broadly interested in building practical multimodal systems that can perceive, reason, and act in complex real-world settings.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.04*, One paper accepted to ACL 2026.
-- *2026.03*, One paper accepted to SIGGRAPH 2026.
-- *2026.02*, Two papers accepted to CVPR 2026.
-- *2026.01*, Three papers accepted to ICLR 2026, including one Oral and two Posters.
+- *2026.04*: 🎉 One paper accepted to ACL 2026.
+- *2026.03*: 🎉 One paper accepted to SIGGRAPH 2026.
+- *2026.02*: 🎉 Two papers accepted to CVPR 2026.
+- *2026.01*: 🎉 Three papers accepted to ICLR 2026, including one Oral and two Posters.
 
 <span class='anchor' id='experience'></span>
 
@@ -47,7 +47,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/scalecua.svg" alt="ScaleCUA publication thumbnail">
+    <img src="/images/papers/scalecua.png" alt="ScaleCUA publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -64,7 +64,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/internvl35.svg" alt="InternVL3.5 publication thumbnail">
+    <img src="/images/papers/internvl35.png" alt="InternVL3.5 publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -72,7 +72,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
       <a class="paper-link paper-link-huggingface" href="https://huggingface.co/collections/OpenGVLab/internvl35" target="_blank" rel="noopener noreferrer">Hugging Face</a>
     </p>
     <p class="paper-title"><a href="https://arxiv.org/abs/2508.18265">InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency</a></p>
-    <p class="paper-authors">Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, <strong>Zhaoyang Liu</strong>, et al.</p>
+    <p class="paper-authors">Weiyun Wang*, Zhangwei Gao*, Lixin Gu*, Hengjun Pu*, Long Cui*, Xingguang Wei*, <strong>Zhaoyang Liu*</strong>, et al.</p>
     <div class="paper-meta-row">
       <p class="paper-meta"><em>arXiv preprint, 2025</em></p>
     </div>
@@ -81,7 +81,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/audiox.svg" alt="AudioX publication thumbnail">
+    <img src="/images/papers/audiox.png" alt="AudioX publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -98,7 +98,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/visionllmv2.svg" alt="VisionLLM v2 publication thumbnail">
+    <img src="/images/papers/visionllmv2.png" alt="VisionLLM v2 publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -106,7 +106,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
       <a class="paper-link paper-link-huggingface" href="https://huggingface.co/OpenGVLab/VisionLLMv2" target="_blank" rel="noopener noreferrer">Hugging Face</a>
     </p>
     <p class="paper-title"><a href="https://arxiv.org/abs/2406.08394">VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks</a></p>
-    <p class="paper-authors">Jiannan Wu, Muyan Zhong, Sen Xing, Zeqiang Lai, <strong>Zhaoyang Liu</strong>, et al.</p>
+    <p class="paper-authors">Jiannan Wu*, Muyan Zhong*, Sen Xing*, Zeqiang Lai*, <strong>Zhaoyang Liu*</strong>, et al.</p>
     <div class="paper-meta-row">
       <p class="paper-meta"><em>NeurIPS, 2024</em></p>
     </div>
@@ -115,7 +115,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/controlllm.svg" alt="ControlLLM publication thumbnail">
+    <img src="/images/papers/controlllm.png" alt="ControlLLM publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -132,7 +132,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <img src="/images/papers/interngpt.svg" alt="InternGPT publication thumbnail">
+    <img src="/images/papers/interngpt.png" alt="InternGPT publication thumbnail">
   </div>
   <div class="paper-box-text">
     <p class="paper-links">
@@ -148,7 +148,7 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 </div>
 
 {% if site.data.google_scholar_publications and site.data.google_scholar_publications.publications %}
-{% assign excluded_publication_titles = "others. 2024. Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling||1 Details of optimizing network P||Supplementary Material for Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection" | split: "||" %}
+{% assign excluded_publication_titles = "others. 2024. Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling||1 Details of optimizing network P||Supplementary Material for Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection||Weijie Su, Gen Luo, Xiangyu Yue, Biqing Qi, Kai Chen, Bowen Zhou, Yu Qiao, Qifeng Chen, and Wenhai Wang. Scalecua: Scaling open-source computer use agents with cross-platform data||A Unified Pretraining Framework for Human Motion Analysis" | split: "||" %}
 {% assign visible_publication_count = 0 %}
 {% for paper in site.data.google_scholar_publications.publications %}
 {% unless excluded_publication_titles contains paper.title %}
@@ -160,37 +160,73 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
   <p class="publication-collapse-note">
     Synced from <a href="{{ site.data.google_scholar_publications.source_url }}" target="_blank" rel="noopener noreferrer">Google Scholar</a> on {{ site.data.google_scholar_publications.updated_at }}.
   </p>
-  <ol class="publication-list-compact">
+  <ul class="publication-list-compact">
     {% for paper in site.data.google_scholar_publications.publications %}
-    {% unless excluded_publication_titles contains paper.title %}
-    {% assign authors_html = paper.authors | replace: 'Zhaoyang Liu', '<strong>Zhaoyang Liu</strong>' %}
-    {% unless authors_html contains '<strong>Zhaoyang Liu</strong>' %}
-    {% assign authors_html = authors_html | replace_first: 'Z Liu', '<strong>Z Liu</strong>' %}
-    {% endunless %}
-    <li class="publication-list-item">
-      <div class="publication-list-title">
-        {% if paper.url != '' %}
-        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+	    {% unless excluded_publication_titles contains paper.title %}
+	    {% assign authors_html = paper.authors | replace: 'Zhaoyang Liu', '<strong>Zhaoyang Liu</strong>' %}
+	    {% unless authors_html contains '<strong>Zhaoyang Liu</strong>' %}
+	    {% assign authors_html = authors_html | replace_first: 'Z Liu', '<strong>Z Liu</strong>' %}
+	    {% endunless %}
+	    {% case paper.title %}
+	    {% when "Internvl3: Exploring advanced training and test-time recipes for open-source multimodal models" %}
+	    {% assign authors_html = "J Zhu*, W Wang*, Z Chen*, <strong>Z Liu*</strong>, S Ye, L Gu, H Tian, Y Duan, W Su, J Shao, ..." %}
+	    {% when "Internvl3. 5: Advancing open-source multimodal models in versatility, reasoning, and efficiency" %}
+	    {% assign authors_html = "W Wang*, Z Gao*, L Gu*, H Pu*, L Cui*, X Wei*, <strong>Z Liu*</strong>, L Jing, S Ye, J Shao, ..." %}
+	    {% when "Visionllm v2: An end-to-end generalist multimodal large language model for hundreds of vision-language tasks" %}
+	    {% assign authors_html = "J Wu*, M Zhong*, S Xing*, Z Lai*, <strong>Z Liu*</strong>, Z Chen, W Wang, X Zhu, L Lu, T Lu, ..." %}
+	    {% when "Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling, 2025" %}
+	    {% assign authors_html = "Z Chen*, W Wang*, Y Cao*, Y Liu*, Z Gao*, E Cui*, J Zhu*, S Ye*, H Tian*, <strong>Z Liu*</strong>, ..." %}
+	    {% when "Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling" %}
+	    {% assign authors_html = "Z Chen*, W Wang*, Y Cao*, Y Liu*, Z Gao*, E Cui*, J Zhu*, S Ye*, H Tian*, <strong>Z Liu*</strong>, ..." %}
+	    {% when "Llms meet multimodal generation and editing: A survey" %}
+	    {% assign authors_html = "Y He*, <strong>Z Liu*</strong>, J Chen, Z Tian, H Liu, X Chi, R Liu, R Yuan, Y Xing, W Wang, ..." %}
+	    {% when "Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows" %}
+	    {% assign authors_html = "Q Sun, Z Liu, C Ma, Z Ding, F Xu, Z Yin, H Zhao, Z Wu, K Cheng, <strong>Z Liu</strong>, ..." %}
+	    {% endcase %}
+	    {% assign display_title = paper.title %}
+	    {% case paper.title %}
+	    {% when "Internvl3. 5: Advancing open-source multimodal models in versatility, reasoning, and efficiency" %}
+	    {% assign display_title = "Internvl3.5: Advancing open-source multimodal models in versatility, reasoning, and efficiency" %}
+	    {% endcase %}
+	    {% assign display_venue = paper.venue %}
+	    {% case paper.title %}
+	    {% when "Os-symphony: A holistic framework for robust and generalist computer-using agent" %}
+	    {% assign display_venue = "Annual Meeting of the Association for Computational Linguistics (ACL), 2026" %}
+	    {% when "Scalecua: Scaling open-source computer use agents with cross-platform data" %}
+	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2026 Oral" %}
+	    {% when "Audiox: Diffusion transformer for anything-to-audio generation" %}
+	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2026 Poster" %}
+	    {% when "Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows" %}
+	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2026 Poster" %}
+	    {% when "Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling, 2025" %}
+	    {% assign display_venue = "arXiv preprint arXiv:2412.05271, 2025" %}
+	    {% when "Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation" %}
+	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2023" %}
+	    {% endcase %}
+	    <li class="publication-list-item">
+	      <div class="publication-list-title">
+	        {% if paper.url != '' %}
+	        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ display_title }}</a>
         {% else %}
-        {{ paper.title }}
-        {% endif %}
+	        {{ display_title }}
+	        {% endif %}
       </div>
       {% if paper.authors != '' %}
       <div class="publication-list-authors">{{ authors_html }}</div>
       {% endif %}
-      {% if paper.venue != '' or paper.year != '' %}
-      <div class="publication-list-venue">
-        {% if paper.venue != '' %}
-        {{ paper.venue }}
-        {% else %}
-        {{ paper.year }}
-        {% endif %}
+	      {% if display_venue != '' or paper.year != '' %}
+	      <div class="publication-list-venue">
+	        {% if display_venue != '' %}
+	        {{ display_venue }}
+	        {% else %}
+	        {{ paper.year }}
+	        {% endif %}
       </div>
       {% endif %}
     </li>
     {% endunless %}
     {% endfor %}
-  </ol>
+  </ul>
 </details>
 {% else %}
 For a fuller list of publications, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=btgwZosAAAAJ).
