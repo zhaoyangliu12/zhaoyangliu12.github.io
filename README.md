@@ -1,6 +1,6 @@
 # Zhaoyang Liu Homepage
 
-This repository contains the source for [https://ZhaoyangLiu-12.github.io](https://ZhaoyangLiu-12.github.io), built from the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template.
+This repository contains the source for [https://zhaoyangliu12.github.io](https://zhaoyangliu12.github.io), built from the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template.
 
 ## Local Preview
 
@@ -22,7 +22,7 @@ This repository contains the source for [https://ZhaoyangLiu-12.github.io](https
 
 ## GitHub Pages Deployment
 
-1. Create the repository `ZhaoyangLiu-12/ZhaoyangLiu-12.github.io` on GitHub if it does not exist yet.
+1. Create the repository `zhaoyangliu12/zhaoyangliu12.github.io` on GitHub if it does not exist yet.
 1. Push the contents of this directory to the `main` branch of that repository.
 1. In the GitHub repository, enable **Settings -> Pages** and serve from the default branch if GitHub does not detect it automatically.
 1. Enable **Actions** for the repository.
