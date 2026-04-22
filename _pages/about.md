@@ -192,6 +192,8 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 	    {% case paper.title %}
 	    {% when "Os-symphony: A holistic framework for robust and generalist computer-using agent" %}
 	    {% assign display_venue = "Annual Meeting of the Association for Computational Linguistics (ACL), 2026" %}
+	    {% when "OS-Oracle: A Comprehensive Framework for Cross-Platform GUI Critic Models" %}
+	    {% assign display_venue = "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026" %}
 	    {% when "Scalecua: Scaling open-source computer use agents with cross-platform data" %}
 	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2026 Oral" %}
 	    {% when "Audiox: Diffusion transformer for anything-to-audio generation" %}
@@ -203,10 +205,53 @@ I began my Ph.D. in Computer Science and Engineering at The Hong Kong University
 	    {% when "Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation" %}
 	    {% assign display_venue = "International Conference on Learning Representations (ICLR), 2023" %}
 	    {% endcase %}
+	    {% assign arxiv_id = "" %}
+	    {% assign arxiv_parts = paper.venue | split: "arXiv:" %}
+	    {% if arxiv_parts.size > 1 %}
+	    {% assign arxiv_id = arxiv_parts.last | strip | split: " " | first | split: "," | first | split: ")" | first %}
+	    {% elsif paper.venue contains "arxiv. org/abs/" %}
+	    {% assign arxiv_id = paper.venue | split: "abs/" | last | strip | split: " " | first | split: "," | first | split: ")" | first %}
+	    {% elsif paper.venue contains "arxiv.org/abs/" %}
+	    {% assign arxiv_id = paper.venue | split: "abs/" | last | strip | split: " " | first | split: "," | first | split: ")" | first %}
+	    {% endif %}
+	    {% case paper.title %}
+	    {% when "Vidmuse: A simple video-to-music generation framework with long-short-term modeling" %}
+	    {% assign arxiv_id = "2406.04321" %}
+	    {% when "Motionbert: A unified perspective on learning human motion representations" %}
+	    {% assign arxiv_id = "2210.06551" %}
+	    {% when "VLG: General Video Recognition with Web Textual Knowledge" %}
+	    {% assign arxiv_id = "2212.01638" %}
+	    {% when "Progressive attention on multi-level dense difference maps for generic event boundary detection" %}
+	    {% assign arxiv_id = "2112.04771" %}
+	    {% when "Tam: Temporal adaptive module for video recognition" %}
+	    {% assign arxiv_id = "2005.06803" %}
+	    {% when "Dynamic sampling networks for efficient action recognition in videos" %}
+	    {% assign arxiv_id = "2006.15560" %}
+	    {% when "Teinet: Towards an efficient architecture for video recognition" %}
+	    {% assign arxiv_id = "1911.09435" %}
+	    {% when "Visionllm v2: An end-to-end generalist multimodal large language model for hundreds of vision-language tasks" %}
+	    {% assign arxiv_id = "2406.08394" %}
+	    {% when "Controlllm: Augment language models with tools by searching on graphs" %}
+	    {% assign arxiv_id = "2310.17796" %}
+	    {% endcase %}
+	    {% assign title_url = "" %}
+	    {% case paper.title %}
+	    {% when "Joint-modal label denoising for weakly-supervised audio-visual video parsing" %}
+	    {% assign title_url = "https://arxiv.org/abs/2204.11573" %}
+	    {% when "Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation" %}
+	    {% assign title_url = "https://openreview.net/pdf?id=fiB2RjmgwQ6" %}
+	    {% endcase %}
+	    {% assign arxiv_url = "" %}
+	    {% if arxiv_id != "" %}
+	    {% assign arxiv_url = "https://arxiv.org/abs/" | append: arxiv_id %}
+	    {% endif %}
+	    {% if title_url == "" %}
+	    {% assign title_url = arxiv_url %}
+	    {% endif %}
 	    <li class="publication-list-item">
 	      <div class="publication-list-title">
-	        {% if paper.url != '' %}
-	        <a href="{{ paper.url }}" target="_blank" rel="noopener noreferrer">{{ display_title }}</a>
+	        {% if title_url != '' %}
+	        <a href="{{ title_url }}" target="_blank" rel="noopener noreferrer">{{ display_title }}</a>
         {% else %}
 	        {{ display_title }}
 	        {% endif %}
