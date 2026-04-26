@@ -9,6 +9,8 @@
 title                    : "Zhaoyang Liu"
 description              : "Ph.D. student in Computer Science and Engineering at HKUST, working on computer use agents, multimodal LLMs, AIGC, and video understanding."
 repository               : "zhaoyangliu12/zhaoyangliu12.github.io"
+url                      : "https://zhaoyangliu12.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics

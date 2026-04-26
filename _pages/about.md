@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "Zhaoyang Liu (刘兆洋)"
+description: "Zhaoyang Liu (刘兆洋) is a Ph.D. student in Computer Science and Engineering at HKUST, working on computer use agents, multimodal LLMs, AIGC, and video understanding."
 excerpt: ""
 author_profile: true
 redirect_from: 
